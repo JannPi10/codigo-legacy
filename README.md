@@ -61,10 +61,11 @@ coverage html
 radon cc autoservice -s -a
 ```
 
-![alt text](../coverage.png)
+!![
+](complejidadCiclomatica.png)
 
-![alt text](../coverageHTML.png)
+![alt text](coverage.png)
 
-![alt text](../test.png)
+![alt text](coverageHTML.png)
 
-![alt text](../complejidadCiclomatica.png)
+![alt text](test.png)
